@@ -1,5 +1,7 @@
 # Customer-trends-Data-Analysis-SQL-Python-Power-BI
 Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
+
+
 Project Overview :
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
